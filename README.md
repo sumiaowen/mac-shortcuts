@@ -74,3 +74,6 @@ mac-shortcuts MAC快捷键
 3、新建窗口：command + n
 
 4、新建标签：command + t
+
+
+更多请查看：http://www.php230.com
