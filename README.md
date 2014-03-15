@@ -13,7 +13,8 @@ mac-shortcuts MAC快捷键
 
 5、显示桌面：command + F3
 
-6、退格删除：delete
+6、
+   退格删除：delete
 
    往后删除：fn + delete
 
@@ -21,11 +22,13 @@ mac-shortcuts MAC快捷键
 
 8、粘帖纯文本：shift + option + command + v
 
-9、隐藏窗口：command + h
+9、
+    隐藏窗口：command + h
 
     最小化窗口：command + m
 
-10、关闭：command + w
+10、
+    关闭：command + w
 
     退出：command + q
 
@@ -34,6 +37,7 @@ mac-shortcuts MAC快捷键
     截取某个区域：command + shift + 4
 
 12、6 个移动光标的快捷键
+
     跳到本行开头 – Command + 左方向键←
 
     跳到本行末尾 – Command + 右方向键→
@@ -47,6 +51,7 @@ mac-shortcuts MAC快捷键
     跳到整个文档的末尾 – Command + 下方向键↓
 
 13、6 个文字选择的快捷键
+
     选中当前位置到本行开头的文字 – Shift + Command + 左方向键←
 
     选中当前位置到本行末尾的文字 – Shift + Command + 左方向键→
