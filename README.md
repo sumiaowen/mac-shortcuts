@@ -35,18 +35,28 @@ mac-shortcuts MAC快捷键
 
 12、6 个移动光标的快捷键
     跳到本行开头 – Command + 左方向键←
+
     跳到本行末尾 – Command + 右方向键→
+
     跳到当前单词的开头 – Option + 左方向键←
+
     跳到当前单词的末尾 – Option + 右方向键→
+
     跳到整个文档的开头 – Command + 上方向键↑
+
     跳到整个文档的末尾 – Command + 下方向键↓
 
 13、6 个文字选择的快捷键
     选中当前位置到本行开头的文字 – Shift + Command + 左方向键←
+
     选中当前位置到本行末尾的文字 – Shift + Command + 左方向键→
+
     选中当前位置到所在单词开头的文字 – Shift + Option + 左方向键←
+
     选中当前位置到所在单词末尾的文字 – Shift + Option + 右方向键→
+
     选中当前位置到整个文档开头的文字 – Shift + Command + 上方向键↑
+
     选中当前位置到整个文档末尾的文字 – Shift + Command + 下方向键↓
 
 
